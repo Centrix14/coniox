@@ -88,7 +88,7 @@
 ### Build
 To build the library, you must have make, ar, and the gcc 32-bit or 64-bit compiler.  
 However, coniox can also be built manually using the following commands:  
-> gcc -c libconiox.c
+> gcc -c libconiox.c  
 > ar rc libconiox.a libconiox.o
 ### Supported OS: Windows 2000, XP, Vista, 7, 8.x, 10, and all Unix systems.
 ### The library was created by Artjom Zvyagin, for training purposes, do not take too seriously. 15.07.2019
