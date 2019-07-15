@@ -35,7 +35,7 @@
   5. Code example:
   ```c
   ...
-  void mvCursor(10, 5);
+  mvCursor(10, 5);
   ...
   ```
   > This call to mvCursor will move the cursor to row 10 of column 5.
